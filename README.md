@@ -1,7 +1,7 @@
 # Nigerian Inflation Dashboard (2003 – Oct 2025)
 
-Nigeria Inflation Dashboard  https://ibb.co/v60NNJmQ
-https://ibb.co/0yW5bw1h
+[Nigeria Inflation Dashboard 1](https://ibb.co/v60NNJmQ)
+[Nigeria Inflation Dashboard 2](https://ibb.co/0yW5bw1h)
 
 *22+ years of official CBN inflation data — cleaned, visualized, and ready to use.*
 
